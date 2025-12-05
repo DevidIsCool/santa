@@ -1,0 +1,15 @@
+{
+    "name": "Horror",
+    "short_name": "Horror",
+    "start_url": "index.html",
+    "display": "fullscreen",
+    "background_color": "#350511",
+    "theme_color": "#000",
+    "description": "Made by devid",
+    "icons": [{
+      "src": "TemplateData/icons/unity-logo-dark.png",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }]
+  }
